@@ -1,7 +1,6 @@
 # dompetku
 
-A new Flutter project.
-
+Digital wallet mobile application for mobile programming project assignments, Information Systems Study Program, Faculty of Engineering, Malikussaleh University
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,3 +13,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## instagram 
+- [instagram] (https://www.instagram.com/a.akem__).
